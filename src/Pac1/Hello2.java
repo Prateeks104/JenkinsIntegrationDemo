@@ -7,9 +7,9 @@ public class Hello2 {
 		for(int i=0;i<10;i++) {
 			
 		System.out.println(" the count is "+i);
-		System.out.println("This is the next iteartion i am adding into this");
-		}
 		
+		}
+		System.out.println("This is the next iteartion i am adding into this");
 	}
 
 }
